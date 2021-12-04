@@ -54,7 +54,7 @@ splits and reconstructs ASTs to obtain the better code representation for code s
 <br><small>
 <i>CIKM 2021 <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482127">[pdf]</a> <a href="https://github.com/Xzh0u/MuCoS">[code]</a></i>
 <br />
- Lun Du, Xiaozhou Shi, Yanlin Wang, <u>Ensheng Shi</u>,  Shi Han, Dongmei Zhang,
+ Lun Du, Xiaozhou Shi, Yanlin Wang, <u>Ensheng Shi</u>,  Shi Han, Dongmei Zhang
 <br /><b>TLNR</b>: Ensemble three models which focus on the structure of code , local variables, and information of API invocation, separately for semantic code search.</small>
 </p>
 
