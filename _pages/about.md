@@ -59,12 +59,12 @@ splits and reconstructs ASTs to obtain the better code representation for code s
 <p><b>CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees</b> 
 <i>EMNLP2021 <a href="https://aclanthology.org/2021.emnlp-main.332.pdf">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CAST)">[code]</a></i>
 <br />
-<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun 
-<br /><b>TLNR</b>: We hierarchically
-splits and reconstructs ASTs to obtain the better code representation for code summarization. <br />
+<small><u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun </small>
+<br /><small><b>TLNR</b>: We hierarchically
+splits and reconstructs ASTs to obtain the better code representation for code summarization.</small>
 </p>
 
-
+<br />
 
 <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1574119221000560">EMPC: Energy-Minimization Path Construction for Data Collection and Wireless Charging in WRSN</a> <br />
 Ping Zhong, <b>AiKun Xu</b>, Shigeng Zhang, Yiming Zhang and Yingwen Chen <br />
