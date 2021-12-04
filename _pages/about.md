@@ -40,8 +40,6 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 </details>
 </small>
 </p>
-<br />
-
 
 <p><b>CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees</b> 
 <br><small>
@@ -51,7 +49,6 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 <br /><b>TLNR</b>: We hierarchically
 splits and reconstructs ASTs to obtain the better code representation for code summarization.</small>
 </p>
-<br />
 
 
 
