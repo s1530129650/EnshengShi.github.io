@@ -25,17 +25,17 @@ ICSE2022 [paper]() [code]()
 
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Junjie Chen, Shi Han, Hongyu Zhang, Dongmei Zhang, Hongbin Sun 
 
-**TLNR(Too Long Not to Read)**: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summarization. 
+TLNR(Too Long Not to Read): Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summarization. 
 <details>
 <summary>More</summary>
 
-* BLEU_DC (sentence BLEU with smoothing method 4) is most correlated to human perception on the evaluation of neural code summarization model among the 6 widely used BLEU variants.
+- BLEU_DC (sentence BLEU with smoothing method 4) is most correlated to human perception on the evaluation of neural code summarization model among the 6 widely used BLEU variants.
 
-* Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
+- Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
 
-* To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
+- To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
 
-* More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
+- More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
 </details>
 
  
@@ -50,7 +50,7 @@ EMNLP2022 [paper](https://aclanthology.org/2021.emnlp-main.332.pdf) [code](https
 
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun 
 
-**TLNR**: We hierarchically
+TLNR: We hierarchically
 splits and reconstructs ASTs to obtain the better code representation for code summarization. 
 </font>
 
