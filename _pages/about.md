@@ -37,11 +37,12 @@ TLNR(Too Long Not to Read): Some interesting and surprising findings on the eval
 
 - More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
 </details>
-
- 
-
-<br>
 </font>
+
+- Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
+
+- To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
+
 
 **CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees** 
  <font size=2>
