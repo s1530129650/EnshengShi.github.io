@@ -16,16 +16,14 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 
 ## Publication
----
-title: "CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees"
-collection: publications
-permalink: /publication/2021-peace-agreement-strength
-date: 2021-09-8
-author: "Ensheng Shi, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun"
-venue: 'EMNLP2021'
-paperurl: 'https://aclanthology.org/2021.emnlp-main.332.pdf'
-code: 'https://github.com/DeepSoftwareAnalytics/CAST'
----
+2021
+
+**CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees**
+
+EMNLP2021 [pdf](https://aclanthology.org/2021.emnlp-main.332.pdf) [code](https://github.com/DeepSoftwareAnalytics/CAST)
+
+<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
+
 
 ## Educations
 
