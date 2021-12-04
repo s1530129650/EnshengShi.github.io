@@ -46,7 +46,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 <i>EMNLP2021 <a href="https://aclanthology.org/2021.emnlp-main.332.pdf">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CAST">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
-<br /><b>TLNR</b>: We hierarchically
+<br /><b>TLNR</b>: Our model hierarchically
 splits and reconstructs ASTs to obtain the better code representation for code summarization.</small>
 </p>
 
@@ -55,7 +55,7 @@ splits and reconstructs ASTs to obtain the better code representation for code s
 <i>CIKM 2021 <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482127">[pdf]</a> <a href="https://github.com/Xzh0u/MuCoS">[code]</a></i>
 <br />
  Lun Du, Xiaozhou Shi, Yanlin Wang, <u>Ensheng Shi</u>,  Shi Han, Dongmei Zhang
-<br /><b>TLNR</b>: Ensemble three models which focus on the structure of code , local variables, and information of API invocation, separately for semantic code search.</small>
+<br /><b>TLNR</b>: Ensembling three models which focus on the structure of code , local variables, and the information of API invocation, separately, for semantic code search.</small>
 </p>
 
 <p><b>On the Evaluation of Commit Message Generation Models: An Experimental Study</b> 
