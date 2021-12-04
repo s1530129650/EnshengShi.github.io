@@ -23,7 +23,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 <i>ICSE2022 <a href="https://arxiv.org/abs/2107.07112">[pdf]</a> <a href="https://arxiv.org/abs/2107.07112">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Junjie Chen, Shi Han, Hongyu Zhang, Dongmei Zhang, Hongbin Sun 
-<br /><b>TLNR</b>: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summarization. 
+<br /><b>TLNR</b>: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox andgiving actionable suggestions on the evaluation of neural code summarization. 
 <br />
 <details>
 <summary></summary>
