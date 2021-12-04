@@ -15,7 +15,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 
 
-## Publication
+## Publications
 ### 2021
 
 <p><b>On the Evaluation of Neural Code Summarization</b> <br>
@@ -102,7 +102,7 @@ contexts: intra-class level context and inter-class level context for code summa
 </ul>
 </td>
 
-## Experience
+## Experiences
 <ul>
 <li>
 Research Intern in Microsoft Research Asia<br>
@@ -115,7 +115,7 @@ Advised by Dongmei Zhang, Shi Han, Zhouyu Fu, & Mengyu Zhou in Software Analytic
 </li>
 </ul>
 
-## Award
+## Awards
 <ul>
 <li>
 2019 Outstanding Graduate Award 
