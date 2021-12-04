@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a joint PhD student, supervised by Dongmei Zhang, Shi han, Yanlin Wang and Prof. Hongbin Sun, between Microsoft Research Asia and Xi'an Jiaotong University . 
+
+I am a joint PhD student, supervised by Dongmei Zhang, Shi Han, Yanlin Wang and Prof. Hongbin Sun, between Microsoft Research Asia and Xi'an Jiaotong University. 
 
 I am mainly focusing on **code intelligence** (intersection of Software Engineering and Artificial Intelligence), which aims to leverage AI to help software developers improve the productivity of the development and reduce costs of the maintenance process. Specifically, it utilizes the **machine learning** model to mine knowledge from large scale, free source code data (Big Code) which is available on Github, etc, obtains the better **code representation** (based on code token/ AST/ PDG/ IR etc) and applies the representation to the **downstream tasks** such as code summarization, code search, clone detection, code completion, program repair, etc.
 
 My research areas currently include: **(1) Code Represention Learning; (2) Code Summarization; (3) Code Search.**
-
 
 
 ## Publications
