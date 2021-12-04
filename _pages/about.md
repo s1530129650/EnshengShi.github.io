@@ -18,14 +18,41 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 ## Publication
 2021
 
-
-**CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees** (EMNLP2022)
+**CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees** 
  <font size=2>
 
+ICSE2022 [paper]() [code]()
 
-<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
-<font style="background: gray">[Paper](https://aclanthology.org/2021.emnlp-main.332.pdf)</font> 
-<font style="background: yellow">[code](https://github.com/DeepSoftwareAnalytics/CAST)</font>
+<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Junjie Chen, Shi Han, Hongyu Zhang, Dongmei Zhang, Hongbin Sun 
+
+TLNR: Some interesting and surprising findings on the evaluated metric, code-preprocessing and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summariation. 
+<details>
+<summary>More</summary>
+
+* BLEU_DC (sentence BLEU with smoothing method 4) is most correlated to human perception on the evaluation of neural code summarization model among the 6 widely used BLEU variants.
+
+* Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
+
+* To more comprehensively evaluate different models, it is recommended to use multiple datasets, as the rank among models can be inconsistent on different datasets.
+
+* More finding about Evalution metics, code pre-processing opeartions, evaluated datasets(the data size, splitting way and duplication ratio )
+</details>
+
+ 
+
+
+</font>
+
+
+**CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees** 
+ <font size=2>
+
+EMNLP2022 [paper](https://aclanthology.org/2021.emnlp-main.332.pdf) [code](https://github.com/DeepSoftwareAnalytics/CAST)
+
+<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun 
+
+TLNR: We hierarchically
+splits and reconstructs ASTs to obtain the better code representation for code summarization. 
 </font>
 
 
