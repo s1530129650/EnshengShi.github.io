@@ -25,7 +25,7 @@ ICSE2022 [paper]() [code]()
 
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Junjie Chen, Shi Han, Hongyu Zhang, Dongmei Zhang, Hongbin Sun 
 
-TLNR: Some interesting and surprising findings on the evaluated metric, code-preprocessing and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summariation. 
+TLNR: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summarization. 
 <details>
 <summary>More</summary>
 
@@ -33,16 +33,15 @@ TLNR: Some interesting and surprising findings on the evaluated metric, code-pre
 
 * Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
 
-* To more comprehensively evaluate different models, it is recommended to use multiple datasets, as the rank among models can be inconsistent on different datasets.
+* To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
 
-* More finding about Evalution metics, code pre-processing opeartions, evaluated datasets(the data size, splitting way and duplication ratio )
+* More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
 </details>
 
  
 
 
 </font>
-
 
 **CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees** 
  <font size=2>
