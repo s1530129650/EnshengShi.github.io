@@ -52,11 +52,47 @@ splits and reconstructs ASTs to obtain the better code representation for code s
 
 
 
-
-
 ## Educations
+<table class="imgtable"><tr><td>
+<a href="http://en.xjtu.edu.cn/"><img src="images/logo.jpg" alt="Xi'an Jiaotong University" width="80px" /></a>&nbsp;</td>
+<td align="left"><h3>PhD <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> (2019.8 ~ present)</h3>
+<ul>
+<li><p>MSRA-XJTU Joint PHD</p>
+</li>
+<li><p>The College of Artificial Intelligence</p>
+</li>
+
+</ul>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<a href="https://www.scuec.edu.cn/"><img src="picture/scuec.jpg" alt="中南民族大学" width="80px" /></a>&nbsp;</td>
+<td align="left"><h3>本科 <a href="https://www.scuec.edu.cn/">中南民族大学</a> (2015.9 ~ 2019.7)</h3>
+<ul>
+<li><p><b>院系专业</b>: 计算机科学学院, 智能科学与技术</p>
+</li>
+<li><p><b>专业排名</b>: 1/56; <b>GPA</b>: 4.02/5.0 <a href="pdf/transcript_scuec.jpg">[成绩单]</a></p>
+</li>
+<li><p><b>奖学金</b>: 国家奖学金(2016.10)、一等优秀奖学金(2016.9)、国家励志奖学金(2017.11)、优秀毕业生一等奖学金(2019.5) <br /></p>
+</li>
+<li><p><b>荣誉称号</b>: 校“三好学生”荣誉称号、校“优秀共青团员”荣誉称号、校“自强自立之星”荣誉称号 <br /></p>
+</li>
+<li><p><b>比赛获奖</b>: 蓝桥杯程序设计大赛湖北省二等奖(两次)、第十届中国大学生计算机设计大赛二等奖、2018中国工程机器人大赛暨国际公开赛一等奖等</p>
+</li>
+</ul>
+</td></tr></table>
 
 ## Experience
+<ul>
+<li>
+Research Intern in Microsoft Research Asia<br>
+Advised by Dongmei Zhang, Shi Han, & Yanlin Wang in Data, Knowledge, and Intelligence group, from Jun 2020 to Present.
+</li>
+<li>
+Research Intern in Microsoft Research Asia<br>
+Advised by Dongmei Zhang, Shi Han, Zhouyu Fu, & Mengyu Zhou in Software Analytics group, from Nov 2018 to Aug 2019.
+
+</li>
+</ul>
 
 ## Award
 
