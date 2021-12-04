@@ -45,30 +45,42 @@ TLNR(Too Long Not to Read): Some interesting and surprising findings on the eval
 
 <br>
 
-**CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees** 
- <font size=2>
 
-EMNLP2022 [paper](https://aclanthology.org/2021.emnlp-main.332.pdf) [code](https://github.com/DeepSoftwareAnalytics/CAST)
+<p><b>On the Evaluation of Neural Code Summarization</b> 
+<i>EMNLP2021 <a href="https://arxiv.org/abs/2107.07112">[pdf]</a> <a href="https://arxiv.org/abs/2107.07112">[code]</a></i>
+<br />
+<small><u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Junjie Chen, Shi Han, Hongyu Zhang, Dongmei Zhang, Hongbin Sun </small>
+<br /><small><b>TLNR</b>: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summarization. 
+<br />
+<details>
+<summary></summary>
+<br>
 
-<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun 
+- BLEU_DC (sentence BLEU with smoothing method 4) is most correlated to human perception on the evaluation of neural code summarization model among the 6 widely used BLEU variants.
+<br>
 
-TLNR: We hierarchically
-splits and reconstructs ASTs to obtain the better code representation for code summarization. 
-</font>
+- Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
+<br>
+
+- To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
+<br>
+
+- More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
+</details></small>
+</p>
+<br />
+
 
 <p><b>CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees</b> 
-<i>EMNLP2021 <a href="https://aclanthology.org/2021.emnlp-main.332.pdf">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CAST)">[code]</a></i>
+<i>EMNLP2021 <a href="https://aclanthology.org/2021.emnlp-main.332.pdf">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CAST">[code]</a></i>
 <br />
 <small><u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun </small>
 <br /><small><b>TLNR</b>: We hierarchically
 splits and reconstructs ASTs to obtain the better code representation for code summarization.</small>
 </p>
-
 <br />
 
-<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1574119221000560">EMPC: Energy-Minimization Path Construction for Data Collection and Wireless Charging in WRSN</a> <br />
-Ping Zhong, <b>AiKun Xu</b>, Shigeng Zhang, Yiming Zhang and Yingwen Chen <br />
-<i>Pervasive and Mobile Computing <b>(PMC)</b>, 2021. [JCR Q2]<a href="pdf/PMC.pdf">[PDF]</a></i></p>
+
 
 
 
