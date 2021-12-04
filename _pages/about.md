@@ -56,10 +56,10 @@ TLNR: We hierarchically
 splits and reconstructs ASTs to obtain the better code representation for code summarization. 
 </font>
 
-<p>CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees <br />
+<p><b>CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees</b> 
 <i>EMNLP2021 <a href="https://aclanthology.org/2021.emnlp-main.332.pdf">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CAST)">[code]</a></i>
-
-<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun <br />
+<br />
+<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun 
 <br /><b>TLNR</b>: We hierarchically
 splits and reconstructs ASTs to obtain the better code representation for code summarization. <br />
 </p>
