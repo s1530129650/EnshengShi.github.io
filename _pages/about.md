@@ -69,7 +69,7 @@ commit message dataset MCMD and evaluate existing models
 on this dataset. </small>
 </p>
 
-2020
+### 2020
 <p><b>CoCoGUM: Contextual Code Summarization with
 Multi-Relational GNN on UMLs</b> 
 <br><small>
