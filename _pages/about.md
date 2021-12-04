@@ -58,6 +58,17 @@ splits and reconstructs ASTs to obtain the better code representation for code s
 <br /><b>TLNR</b>: Ensemble three models which focus on the structure of code , local variables, and information of API invocation, separately for semantic code search.</small>
 </p>
 
+<p><b>On the Evaluation of Commit Message Generation Models: An Experimental Study</b> 
+<br><small>
+<i>ICSME 2021 <a href="https://ieeexplore.ieee.org/abstract/document/9609189">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
+<br />
+ Wei tao, Yanlin Wang, <u>Ensheng Shi</u>, Lun Du, Shi Han, Dongmei Zhang, Wenqiang Zhang
+<br /><b>TLNR</b>: We conduct the empirical study on evaluated metrics and existing datasets. We
+also collect a large-scale, information-rich, and multi-language
+commit message dataset MCMD and evaluate existing models
+on this dataset. </small>
+</p>
+
 2020
 <p><b>CoCoGUM: Contextual Code Summarization with
 Multi-Relational GNN on UMLs</b> 
