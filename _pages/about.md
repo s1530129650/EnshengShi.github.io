@@ -25,7 +25,7 @@ ICSE2022 [paper]() [code]()
 
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Junjie Chen, Shi Han, Hongyu Zhang, Dongmei Zhang, Hongbin Sun 
 
-TLNR: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summarization. 
+**TLNR(Too Long Not to Read)**: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summarization. 
 <details>
 <summary>More</summary>
 
@@ -40,7 +40,7 @@ TLNR: Some interesting and surprising findings on the evaluated metric, code-pre
 
  
 
-
+<br>
 </font>
 
 **CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees** 
@@ -50,7 +50,7 @@ EMNLP2022 [paper](https://aclanthology.org/2021.emnlp-main.332.pdf) [code](https
 
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun 
 
-TLNR: We hierarchically
+**TLNR**: We hierarchically
 splits and reconstructs ASTs to obtain the better code representation for code summarization. 
 </font>
 
