@@ -18,16 +18,16 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 ## Publication
 2021
 
-------
+
 **CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees** (EMNLP2022)
  <font size=2>
 
 
-Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
-<font style="background: green">[ Paper ](https://aclanthology.org/2021.emnlp-main.332.pdf)</font> 
+<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
+<font style="background: gray">[Paper](https://aclanthology.org/2021.emnlp-main.332.pdf)</font> 
 <font style="background: yellow">[code](https://github.com/DeepSoftwareAnalytics/CAST)</font>
 </font>
----
+
 
 
 ## Educations
