@@ -50,36 +50,46 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 splits and reconstructs ASTs to obtain the better code representation for code summarization.</small>
 </p>
 
+<p><b>Is a Single Model Enough? MuCoS: A Multi-Model Ensemble Learning Approach for Semantic Code Search</b> 
+<br><small>
+<i>CIKM 2021 <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482127">[pdf]</a> <a href="https://github.com/Xzh0u/MuCoS">[code]</a></i>
+<br />
+ Lun Du, Xiaozhou Shi, Yanlin Wang, <u>Ensheng Shi</u>,  Shi Han, Dongmei Zhang,
+<br /><b>TLNR</b>: Ensemble three models which focus on the structure of code , local variables, and information of API invocation, separately for semantic code search.</small>
+</p>
 
+2020
+<p><b>CoCoGUM: Contextual Code Summarization with
+Multi-Relational GNN on UMLs</b> 
+<br><small>
+<i>MSR-TR 2020 <a href="https://www.microsoft.com/en-us/research/uploads/prod/2020/05/CoCoGUM-TR.pdf">[pdf]</a> </i>
+<br />
+Yanlin Wang, Lun Du, <u>Ensheng Shi</u>, Yuxuan Hu, Shi Han, Dongmei Zhang
+<br /><b>TLNR</b>: We explore modeling two global
+contexts: intra-class level context and inter-class level context for code summarization.</small>
+</p>
 
 ## Educations
-<table class="imgtable"><tr><td>
-<a href="http://en.xjtu.edu.cn/"><img src="images/logo.jpg" alt="Xi'an Jiaotong University" width="80px" /></a>&nbsp;</td>
-<td align="left"><h3>PhD <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> (2019.8 ~ present)</h3>
+
+ <td align="left"><h3>
+2019.8 ~ Present: <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> </h3>
 <ul>
 <li><p>MSRA-XJTU Joint PHD</p>
 </li>
 <li><p>The College of Artificial Intelligence</p>
 </li>
+</ul>
+</td>
 
-</ul>
-</td></tr></table>
-<table class="imgtable"><tr><td>
-<a href="https://www.scuec.edu.cn/"><img src="picture/scuec.jpg" alt="中南民族大学" width="80px" /></a>&nbsp;</td>
-<td align="left"><h3>本科 <a href="https://www.scuec.edu.cn/">中南民族大学</a> (2015.9 ~ 2019.7)</h3>
+<td align="left"><h3>
+2015.8 ~ 2019.7: <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> </h3>
 <ul>
-<li><p><b>院系专业</b>: 计算机科学学院, 智能科学与技术</p>
+<li><p>Outstanding Graduate</p>
 </li>
-<li><p><b>专业排名</b>: 1/56; <b>GPA</b>: 4.02/5.0 <a href="pdf/transcript_scuec.jpg">[成绩单]</a></p>
-</li>
-<li><p><b>奖学金</b>: 国家奖学金(2016.10)、一等优秀奖学金(2016.9)、国家励志奖学金(2017.11)、优秀毕业生一等奖学金(2019.5) <br /></p>
-</li>
-<li><p><b>荣誉称号</b>: 校“三好学生”荣誉称号、校“优秀共青团员”荣誉称号、校“自强自立之星”荣誉称号 <br /></p>
-</li>
-<li><p><b>比赛获奖</b>: 蓝桥杯程序设计大赛湖北省二等奖(两次)、第十届中国大学生计算机设计大赛二等奖、2018中国工程机器人大赛暨国际公开赛一等奖等</p>
+<li><p>Automatic Science and technique</p>
 </li>
 </ul>
-</td></tr></table>
+</td>
 
 ## Experience
 <ul>
@@ -95,4 +105,27 @@ Advised by Dongmei Zhang, Shi Han, Zhouyu Fu, & Mengyu Zhou in Software Analytic
 </ul>
 
 ## Award
-
+<ul>
+<li>
+2019 Outstanding Graduate Award 
+</li>
+<li>
+2018 Elite Class Scholarship of Institute of Automation, China academy of sciences
+</li>
+<li>
+2018 Grateful Scientist Bursary
+</li>
+<li>
+2018 National Scholarship
+</li>
+<li>
+2017 Outstanding Volunteer Award
+</li>
+<li>2017 National  Encouragement Scholarship
+</li>
+<li>
+2016 First Prize of Mathematical Modeling Contest at Provincial Level
+</li>
+<li>2016 National  Encouragement Scholarship
+</li>
+</ul>
