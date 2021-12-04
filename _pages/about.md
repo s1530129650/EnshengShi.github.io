@@ -28,32 +28,20 @@ ICSE2022 [paper]() [code]()
 TLNR(Too Long Not to Read): Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox giving actionable suggestions on the evaluation of neural code summarization. 
 <details>
 <summary>More</summary>
+<br>
 
 - BLEU_DC (sentence BLEU with smoothing method 4) is most correlated to human perception on the evaluation of neural code summarization model among the 6 widely used BLEU variants.
+<br>
 
 - Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
+<br>
 
 - To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
+<br>
 
 - More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
 </details>
 </font>
-<details>
-<summary>More</summary>
-
-- BLEU_DC (sentence BLEU with smoothing method 4) is most correlated to human perception on the evaluation of neural code summarization model among the 6 widely used BLEU variants.
-
-- Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
-
-- To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
-
-- More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
-</details>
-
-
-- Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
-
-- To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
 
 <br>
 
