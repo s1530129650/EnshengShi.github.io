@@ -36,7 +36,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 </li>
 <li>More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
 </li>
-</ur>
+</ul>
 </details>
 </small>
 </p>
