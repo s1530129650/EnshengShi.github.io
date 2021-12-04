@@ -58,6 +58,12 @@ splits and reconstructs ASTs to obtain the better code representation for code s
 
 
 
+<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1574119221000560">EMPC: Energy-Minimization Path Construction for Data Collection and Wireless Charging in WRSN</a> <br />
+Ping Zhong, <b>AiKun Xu</b>, Shigeng Zhang, Yiming Zhang and Yingwen Chen <br />
+<i>Pervasive and Mobile Computing <b>(PMC)</b>, 2021. [JCR Q2]<a href="pdf/PMC.pdf">[PDF]</a></i></p>
+</li>
+
+
 ## Educations
 
 ## Experience
