@@ -97,7 +97,7 @@ contexts: intra-class level context and inter-class level context for code summa
 <ul>
 <li><p>Outstanding Graduate</p>
 </li>
-<li><p>Automatic Science and Technique</p>
+<li><p>Automatic Science and Technology</p>
 </li>
 </ul>
 </td>
@@ -121,7 +121,7 @@ Advised by Dongmei Zhang, Shi Han, Zhouyu Fu, & Mengyu Zhou in Software Analytic
 2019 Outstanding Graduate Award 
 </li>
 <li>
-2018 Elite Class Scholarship of Institute of Automation, China academy of sciences
+2018 Elite Class Scholarship of Institute of Automation, China Academy of Sciences
 </li>
 <li>
 2018 Grateful Scientist Bursary
