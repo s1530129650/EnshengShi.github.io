@@ -10,9 +10,8 @@ redirect_from:
 
 I am a joint PhD student, supervised by Dongmei Zhang, Shi Han, Yanlin Wang and Prof. Hongbin Sun, between Microsoft Research Asia and Xi'an Jiaotong University. 
 
-My research goals are to study important code-related tasks/applications in software engineering (SE),  improve their performance, and increase the productivity of the development and maintenance processes. Technically, I mainly leverage  artificial intelligence approaches, especially those based on deep learning that have achieved a great success in many areas, to analyze and model source code and its  related artifacts. The inherent characteristics of source code, such as rich structure, strict syntax,  complex dependencies, and flexible implementation ways, bring challenges to the analysis, modeling and understanding of source code.  
-
-My research areas currently include: **(1) Code Represention Learning; (2) Code Summarization; (3) Code Search; (4)Commit Message Generation**
+I am mainly focusing on **code intelligence** (intersection of Software Engineering and Artificial Intelligence),
+My research goals are to study important code-related tasks/applications in software engineering (SE), which leverages artificial intelligence approaches to analyze and model source code and its related artifacts. My research areas currently include: **(1) Code Represention Learning; (2) Code Summarization; (3) Code Search; (4)Commit Message Generation**
 
 
 
